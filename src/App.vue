@@ -12,7 +12,7 @@ import InputTask from './components/InputTask'
 
 export default {
   name: 'App',
-  componets:{   
+  components:{   
     InputTask 
   }
 }
